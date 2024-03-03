@@ -1,0 +1,9 @@
+instruction,image_ori,image_ours,image_in2n,image_sds
+A bronze statue,09-ori.png,09-bron-our.png,09-bron-n2n.png,09-bron-sds.png
+Turn the person into Joker,09-ori.png,09-joke-our.png,09-joke-n2n.png,09-joke-sds.png
+Turn the person into Lord Voldemort,09-ori.png,09-vold-our.png,09-vold-n2n.png,09-vold-sds.png
+Turn him into a Modigliani painting,09-ori.png,09-modi-our.png,09-modi-n2n.png,09-modi-sds.png
+Make him into wearing traditional Japanese kimono,32-ori.png,32-japa-our.png,32-japa-n2n.png,32-japa-sds.png
+Put the person in a suit,32-ori.png,32-suit-our.png,32-suit-n2n.png,32-suit-sds.png
+Turn him into a clown,32-ori.png,32-clow-our.png,32-clow-n2n.png,32-clow-sds.png
+Turn the person into Tolkien Elf,32-ori.png,32-elff-our.png,32-elff-n2n.png,32-elff-sds.png
